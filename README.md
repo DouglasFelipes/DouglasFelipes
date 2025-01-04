@@ -46,6 +46,27 @@ Análise e ingestão de dados de mercado de criptomoedas utilizando PySpark e De
 
 ---
 
+## 🏅 Certificações e Reconhecimentos
+- **DP-900**: Microsoft Azure Data Fundamentals
+- **Pentaho Data Integration - ETL Essencial**
+- **Apache Airflow Fundamentals** - Certificação Astronomer (Planejada)
+- Reconhecido como Engenheiro de Dados do Mês na Brasal
+
+---
+
+## 🎯 Objetivo Atual
+- Construir projetos open-source focados em **Data Engineering**.
+- Ajudar a comunidade com tutoriais e boas práticas em **Airflow, Spark e Delta Lake**.
+- Criar um portfólio público sólido que reflita minha capacidade técnica.
+
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=DouglasFelipes&color=blue" alt="Contador de Visitantes"/>
+</p>
+
+
+
 ## 🌍 Conecte-se Comigo
 
 <div align="center">
